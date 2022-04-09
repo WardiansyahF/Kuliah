@@ -3,7 +3,6 @@ import random
 
 print('Memulai permainan Batu Kertas Gunting!')
 player_name = input('Masukkan nama Anda: ')
-
 print('Pilih tangan: (0: Batu, 1: Kertas, 2: Gunting)')
 player_hand = int(input('Masukkan nomor (0-2): '))
 
